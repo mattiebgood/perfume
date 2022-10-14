@@ -1,4 +1,7 @@
 body {
-    display: flex;
-    flex-direction: column;
+    display:flex;
+}
+
+img {
+    height: 500px;
 }
